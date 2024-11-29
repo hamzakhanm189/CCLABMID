@@ -1,0 +1,7 @@
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.exe.config
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.exe
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.pdb
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.csproj.AssemblyReference.cache
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.exe
+C:\Users\ATECH\source\repos\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.pdb
